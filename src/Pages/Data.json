@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Velora Midnight Essence",
+    "description": "Deep floral scent with lasting night charm",
+    "price": 79.99,
+    "status": "In Stock",
+    "image": "/Product1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Aurum Mist Bloom",
+    "description": "Soft citrus blend with pure morning freshness",
+    "price": 64.5,
+    "status": "Sold",
+    "image": "/Product2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Noir Whisper Luxe",
+    "description": "Elegant woody notes with smooth amber touch",
+    "price": 92.0,
+    "status": "In Stock",
+    "image": "/Product12.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Elysian Petal Storm",
+    "description": "Fresh floral tones balanced with creamy undertones",
+    "price": 58.75,
+    "status": "In Stock",
+    "image": "/Product4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Crescent Bloom Aura",
+    "description": "Gentle jasmine heart with oceanic top notes",
+    "price": 71.2,
+    "status": "Sold",
+    "image": "/Product5.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Obsidian Rain Whisper",
+    "description": "Dark fruity accords with musky evening tone",
+    "price": 84.99,
+    "status": "In Stock",
+    "image": "/Product8.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Lunara Sky Essence",
+    "description": "Cool breeze aroma with subtle floral notes",
+    "price": 69.99,
+    "status": "In Stock",
+    "image": "/Product10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Solstice Ember Glow",
+    "description": "Fiery citrus spark wrapped in woody harmony",
+    "price": 91.5,
+    "status": "In Stock",
+    "image": "/Product11.jpg"
+  }
+]
